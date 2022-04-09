@@ -46,7 +46,7 @@
     "marked": "^0.5.2",
     "math-expression-evaluator": "^1.2.17",
     "mc-ping-updated": "^0.1.0",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "morgan": "^1.9.1",
     "ms": "^2.1.1",
